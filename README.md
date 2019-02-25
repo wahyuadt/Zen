@@ -1,3 +1,6 @@
+# NOTE : THIS IS NOT BELONG TO ME, FOR EDUCATIONAL PURPOSE ONLY
+# NOTE : SOURCE/CREATOR ARE LISTED BELOW
+
 # ZEN - Team Mojo Jojo
 ### [Project presentation](https://docs.google.com/presentation/d/1THQ_dsQpNMnZycidDk8GqawJhiITGEc5FTzZ_Ah6ifE/edit?usp=sharing)
 
